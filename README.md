@@ -1,7 +1,7 @@
 # 🍫 Awesome Chocolates – Power BI Sales Dashboard
 
 ## 📊 Project Overview
-The **Awesome Chocolates Dashboard** is a Power BI project designed to analyze and visualize sales performance for a chocolate retail business. The dashboard provides key insights into revenue, product performance, regional sales, and overall business trends. It helps stakeholders quickly understand sales patterns and make data-driven decisions.
+The **Chocolates Dashboard** is a Power BI project designed to analyze and visualize sales performance for a chocolate retail business. The dashboard provides key insights into revenue, product performance, regional sales, and overall business trends. It helps stakeholders quickly understand sales patterns and make data-driven decisions.
 
 This dashboard transforms raw sales data into interactive visualizations, enabling users to explore business performance through filters, KPIs, and dynamic charts.
 
@@ -36,7 +36,3 @@ This dashboard transforms raw sales data into interactive visualizations, enabli
 - **Data Modeling**
 - **DAX (Data Analysis Expressions)**
 - **Interactive Data Visualization**
-
----
-
-## 📂 Project Structure
